@@ -29,4 +29,5 @@ The forecasted sales for the next 7 days have been visualized and saved as a plo
 
 ![Forecast Plot](outputs/forecast_plot.png)
 
-## Repository Structure
+
+
